@@ -1,6 +1,5 @@
 package com.younger;
 
-import com.younger.controller.App;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

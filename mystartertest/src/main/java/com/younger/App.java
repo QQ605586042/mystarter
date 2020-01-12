@@ -1,4 +1,4 @@
-package com.younger.controller;
+package com.younger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
