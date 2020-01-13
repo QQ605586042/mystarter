@@ -44,7 +44,7 @@ import org.springframework.context.annotation.Import;
         ProjectInfoAutoConfiguration.class,
         RedisAutoConfiguration.class
 })
-@ComponentScan("com.younger.controller")
+@ComponentScan("com.younger")
 public class App {
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
